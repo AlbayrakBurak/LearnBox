@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 7986626e7b1c4504d88ad8a6179fe051
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4859222676808694114
+    second: button_auto_x2_0
+  - first:
+      213: -3911694964206674320
+    second: button_auto_x2_1
+  - first:
+      213: 7721013942751705501
+    second: button_auto_x2_2
+  - first:
+      213: -6845137377514552437
+    second: button_auto_x2_3
+  - first:
+      213: 6279887933429714358
+    second: button_auto_x2_4
+  - first:
+      213: -2847449097625226234
+    second: button_auto_x2_5
+  - first:
+      213: 7131179719959304258
+    second: button_auto_x2_6
+  - first:
+      213: 2588873033020838468
+    second: button_auto_x2_7
+  - first:
+      213: -7293968536569913405
+    second: button_auto_x2_8
+  - first:
+      213: -5023475698160044680
+    second: button_auto_x2_9
+  - first:
+      213: -5271724049495310183
+    second: button_auto_x2_10
+  - first:
+      213: 5376783945997372386
+    second: button_auto_x2_11
+  - first:
+      213: 1742244825642168523
+    second: button_auto_x2_12
+  - first:
+      213: -4517908023565125586
+    second: button_auto_x2_13
+  - first:
+      213: 1331957649365373153
+    second: button_auto_x2_14
+  - first:
+      213: 4524892442673994977
+    second: button_auto_x2_15
+  - first:
+      213: -8680914593086947851
+    second: button_auto_x2_16
+  - first:
+      213: -8144667704466600753
+    second: button_auto_x2_17
+  - first:
+      213: -2630031646983241978
+    second: button_auto_x2_18
+  - first:
+      213: -6289820294567644663
+    second: button_auto_x2_19
+  - first:
+      213: 8175634615422886029
+    second: button_auto_x2_20
+  - first:
+      213: 4023742759581488365
+    second: button_auto_x2_21
+  - first:
+      213: 1904428941164029175
+    second: button_auto_x2_22
+  - first:
+      213: -2969608314804268573
+    second: button_auto_x2_23
+  - first:
+      213: 9027187205323000908
+    second: button_auto_x2_24
+  - first:
+      213: 3176149524789639328
+    second: button_auto_x2_25
+  - first:
+      213: 5767561433119345585
+    second: button_auto_x2_26
+  - first:
+      213: 3636789259580858901
+    second: button_auto_x2_27
+  - first:
+      213: -1107557303639063612
+    second: button_auto_x2_28
+  - first:
+      213: -4517996114892982339
+    second: button_auto_x2_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_auto_x2_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 785
+        width: 458
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968b4088b2909cb0800000000000000
+      internalID: -4859222676808694114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 791
+        width: 405
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ed6c4b72ed6b9c0800000000000000
+      internalID: -3911694964206674320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 650
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99bd83f54d862b60800000000000000
+      internalID: 7721013942751705501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 651
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b830f7e72df2101a0800000000000000
+      internalID: -6845137377514552437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 651
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd075d9dc4a62750800000000000000
+      internalID: 6279887933429714358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 651
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ba04d124db78d0800000000000000
+      internalID: -2847449097625226234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 650
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248d4a53c2a07f260800000000000000
+      internalID: 7131179719959304258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 651
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4429bcd9e468de320800000000000000
+      internalID: 2588873033020838468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_8
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 651
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfdfd6d24e96ca90800000000000000
+      internalID: -7293968536569913405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 507
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875fc51d777094ab0800000000000000
+      internalID: -5023475698160044680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 507
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990c2f368e217d6b0800000000000000
+      internalID: -5271724049495310183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 507
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb423fe28c2e9a40800000000000000
+      internalID: 5376783945997372386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 507
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0f9282072bd2810800000000000000
+      internalID: 1742244825642168523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_13
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 507
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e287387e69a2d41c0800000000000000
+      internalID: -4517908023565125586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 507
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e09942dc601c7210800000000000000
+      internalID: 1331957649365373153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_15
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 507
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecde64e3b5abce30800000000000000
+      internalID: 4524892442673994977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 375
+        width: 135
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd3c89cb22378780800000000000000
+      internalID: -8680914593086947851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 375
+        width: 135
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc0ca500e358fe80800000000000000
+      internalID: -8144667704466600753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 375
+        width: 135
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f378dc620408bd0800000000000000
+      internalID: -2630031646983241978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 369
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b04954c116b8a0800000000000000
+      internalID: -6289820294567644663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_20
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 373
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d802ba9cd50b57170800000000000000
+      internalID: 8175634615422886029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_21
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 373
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4976c98b437d730800000000000000
+      internalID: 4023742759581488365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 469
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42e0a2804ed6a10800000000000000
+      internalID: 1904428941164029175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 237
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e19b0aa8f4d9c6d0800000000000000
+      internalID: -2969608314804268573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_24
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 232
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8a366fe2074d70800000000000000
+      internalID: 9027187205323000908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_25
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 232
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8bc923a23f31c20800000000000000
+      internalID: 3176149524789639328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 213
+        width: 469
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb4259c09e7a0050800000000000000
+      internalID: 5767561433119345585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 137
+        width: 469
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e5442098787230800000000000000
+      internalID: 3636789259580858901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 61
+        width: 404
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3443c108a21a0f0800000000000000
+      internalID: -1107557303639063612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_auto_x2_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 63
+        width: 469
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7753b887adc41c0800000000000000
+      internalID: -4517996114892982339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

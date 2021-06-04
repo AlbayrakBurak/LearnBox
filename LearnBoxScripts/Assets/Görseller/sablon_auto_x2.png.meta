@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: b1e55f363ee5bbd42be8fbf359eaf56d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5862715532738900407
+    second: sablon_auto_x2_0
+  - first:
+      213: 129913545117532988
+    second: sablon_auto_x2_1
+  - first:
+      213: -5002570456005189989
+    second: sablon_auto_x2_2
+  - first:
+      213: -7574705169299754577
+    second: sablon_auto_x2_3
+  - first:
+      213: 5212337852584210968
+    second: sablon_auto_x2_4
+  - first:
+      213: -2486567573253652673
+    second: sablon_auto_x2_5
+  - first:
+      213: -2007956114835287036
+    second: sablon_auto_x2_6
+  - first:
+      213: 3137946826555286903
+    second: sablon_auto_x2_7
+  - first:
+      213: -5551600281767878773
+    second: sablon_auto_x2_8
+  - first:
+      213: -6212053113372629937
+    second: sablon_auto_x2_9
+  - first:
+      213: 2493280064231741603
+    second: sablon_auto_x2_10
+  - first:
+      213: -4878985945820947084
+    second: sablon_auto_x2_11
+  - first:
+      213: -6757462830885329561
+    second: sablon_auto_x2_12
+  - first:
+      213: 6101948300514117202
+    second: sablon_auto_x2_13
+  - first:
+      213: 352332140491095906
+    second: sablon_auto_x2_14
+  - first:
+      213: 3635455032202818529
+    second: sablon_auto_x2_15
+  - first:
+      213: 7529405313044056119
+    second: sablon_auto_x2_16
+  - first:
+      213: -6162763357453432451
+    second: sablon_auto_x2_17
+  - first:
+      213: -2765117625435532516
+    second: sablon_auto_x2_18
+  - first:
+      213: -2974707560720905152
+    second: sablon_auto_x2_19
+  - first:
+      213: -1751851073122958122
+    second: sablon_auto_x2_20
+  - first:
+      213: -2454062426730178951
+    second: sablon_auto_x2_21
+  - first:
+      213: -8974538052406043475
+    second: sablon_auto_x2_22
+  - first:
+      213: -3266781073841174089
+    second: sablon_auto_x2_23
+  - first:
+      213: 1360248562357653851
+    second: sablon_auto_x2_24
+  - first:
+      213: 6913570304972028224
+    second: sablon_auto_x2_25
+  - first:
+      213: -7289852803014068835
+    second: sablon_auto_x2_26
+  - first:
+      213: -2218603282527030627
+    second: sablon_auto_x2_27
+  - first:
+      213: -5307531040428378522
+    second: sablon_auto_x2_28
+  - first:
+      213: -4895460953391978406
+    second: sablon_auto_x2_29
+  - first:
+      213: 4275789175895327565
+    second: sablon_auto_x2_30
+  - first:
+      213: -4808712160453906970
+    second: sablon_auto_x2_31
+  - first:
+      213: 1614580960220354545
+    second: sablon_auto_x2_32
+  - first:
+      213: -8423634804647939769
+    second: sablon_auto_x2_33
+  - first:
+      213: 3045900981931617021
+    second: sablon_auto_x2_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sablon_auto_x2_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 873
+        width: 401
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecee3f84373aea0800000000000000
+      internalID: -5862715532738900407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_1
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 583
+        width: 475
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c330e345eab8dc100800000000000000
+      internalID: 129913545117532988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 815
+        width: 401
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e52fdccac439ab0800000000000000
+      internalID: -5002570456005189989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 757
+        width: 401
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1b291f7cd31e690800000000000000
+      internalID: -7574705169299754577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 698
+        width: 400
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812ba9829a1f55840800000000000000
+      internalID: 5212337852584210968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 639
+        width: 401
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff53e67ffed7dd0800000000000000
+      internalID: -2486567573253652673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 581
+        width: 401
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4045baa5d8e4224e0800000000000000
+      internalID: -2007956114835287036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 443
+        width: 310
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77564e0630a3c8b20800000000000000
+      internalID: 3137946826555286903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 443
+        width: 273
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f544615f0c4f2b0800000000000000
+      internalID: -5551600281767878773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_9
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 443
+        width: 275
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44a0933b9a5ac9a0800000000000000
+      internalID: -6212053113372629937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 315
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8981a2209e99220800000000000000
+      internalID: 2493280064231741603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 315
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d183bd12c5a4cb0800000000000000
+      internalID: -4878985945820947084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 315
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765ac2e9b5ba832a0800000000000000
+      internalID: -6757462830885329561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 315
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25641f956a97ea450800000000000000
+      internalID: 6101948300514117202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 315
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fbcec073cb3e400800000000000000
+      internalID: 352332140491095906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 315
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3fa5f171bb37230800000000000000
+      internalID: 3635455032202818529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 315
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380eed5d32dd7860800000000000000
+      internalID: 7529405313044056119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_17
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 315
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79c13cc067797aa0800000000000000
+      internalID: -6162763357453432451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 315
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c135ebd7b2450a9d0800000000000000
+      internalID: -2765117625435532516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 187
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ccf84fb37b7b6d0800000000000000
+      internalID: -2974707560720905152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 187
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d48e1f0bbc20b7e0800000000000000
+      internalID: -1751851073122958122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 187
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765d1e993b61fdd0800000000000000
+      internalID: -2454062426730178951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 187
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac9c13c039047380800000000000000
+      internalID: -8974538052406043475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 187
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b94ab6ebef0aa2d0800000000000000
+      internalID: -3266781073841174089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 187
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51509d4cd290e210800000000000000
+      internalID: 1360248562357653851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_25
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 187
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049fb8d009fe1ff50800000000000000
+      internalID: 6913570304972028224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 187
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95f57bbf7d35da90800000000000000
+      internalID: -7289852803014068835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_27
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 187
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f577b110f531e0800000000000000
+      internalID: -2218603282527030627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 63
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66638e4a3acd756b0800000000000000
+      internalID: -5307531040428378522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 63
+        width: 107
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58a64d3334df0cb0800000000000000
+      internalID: -4895460953391978406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 59
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4383b3f997a65b30800000000000000
+      internalID: 4275789175895327565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_31
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 59
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed2b0984c5044db0800000000000000
+      internalID: -4808712160453906970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_32
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 65
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f71b0334d4286610800000000000000
+      internalID: 1614580960220354545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_33
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 67
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b75786cc391b80800000000000000
+      internalID: -8423634804647939769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sablon_auto_x2_34
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 63
+        width: 293
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa2c012ec6354a20800000000000000
+      internalID: 3045900981931617021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
